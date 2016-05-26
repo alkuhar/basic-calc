@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+.custom {
+  width: 50px;
+}
+
+.btn {
+  border-color: black;
+}
+
+html {
+  background-color: #3384ff;
+}
+
+.container-fluid {
+  background-color: #3384ff;
+}
+.container-fluid .box {
+  background-color: #404040;
+  width: 224px;
+  height: 264px;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 5px;
+}
+.container-fluid .box .row {
+  width: 215px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4px;
+}
+.container-fluid .box .result {
+  font-family: "Roboto Condensed";
+  border-radius: 3px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 26px;
+  margin-bottom: 6px;
+  width: 210px;
+  color: white;
+  padding-right: 5px;
+  background-color: grey;
+  text-align: right;
+}
+.container-fluid .box .title {
+  font-family: "Roboto Condensed";
+  text-align: center;
+  margin-bottom: -22px;
+  padding-top: 4px;
+  padding-bottom: 1px;
+  color: white;
+}
+.container-fluid .box .row .zero {
+  width: 104px;
+}
